@@ -13,8 +13,8 @@ const config: Config = {
         Pretendard: ["Pretendard"],
       },
       screens: {
-        sm: "410px",
-        md: "768px",
+        sm: "0px",
+        md: "450px",
         lg: "1280px",
       },
       colors: {
